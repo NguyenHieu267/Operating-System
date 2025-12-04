@@ -1,0 +1,8 @@
+20 7
+calc
+calc
+calc
+calc
+calc
+alloc 300 1
+write 100 1 1000
